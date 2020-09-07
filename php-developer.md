@@ -1,8 +1,9 @@
 # Задания для PHP / JS программистов
 
-Большинство заданий - это работа с платформой [X-Cart 5](https://www.x-cart.com/download.html) и создание [модуля](https://devs.x-cart.com/getting_started/creating-module.html) под неё. При выполнении тебе поможет наша [девелоперская документация](https://devs.x-cart.com) и [мерчантский мануал](https://kb.x-cart.com). 
+Большинство заданий - это работа с платформой X-Cart 5 и создание [модуля](https://devs.x-cart.com/getting_started/creating-module.html) под неё. При выполнении тебе поможет наша [девелоперская документация](https://devs.x-cart.com) и [мерчантский мануал](https://kb.x-cart.com). 
 
-Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. После этого желательно включить в файле `etc/config.php` девелоперский режим, позволяющий применять изменения в коде без пересборки кэша, для этого нужно найти или добавить опцию:
+Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. Скачать можно тут: [http://static.x-cart.com/xc5kit/latest.tgz](http://static.x-cart.com/xc5kit/latest.tgz).
+После этого желательно включить в файле `etc/config.php` девелоперский режим, позволяющий применять изменения в коде без пересборки кэша, для этого нужно найти или добавить опцию:
 
 ```
 [performance]
