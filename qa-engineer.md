@@ -1,8 +1,8 @@
 # Задания для инженеров QA (Quality Assurance)
 
-Большинство заданий - это работа с платформой [X-Cart 5](https://www.x-cart.com/download.html). При выполнении тебе поможет наша [девелоперская документация](https://devs.x-cart.com) и [мерчантский мануал](https://kb.x-cart.com). 
+Большинство заданий - это работа с платформой X-Cart 5. При выполнении тебе поможет наша [девелоперская документация](https://devs.x-cart.com) и [мерчантский мануал](https://kb.x-cart.com). 
 
-Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. 
+Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. Скачать можно тут: [http://static.x-cart.com/xc5kit/latest.tgz](http://static.x-cart.com/xc5kit/latest.tgz).
 
 В качестве результата можно прислать описание работы и тестовые артефакты на join@x-cart.com. Если появятся вопросы - можно писать или в [Issues](https://github.com/xcart/jobs/issues), или на daemos@x-cart.com.
 
