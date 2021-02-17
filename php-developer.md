@@ -2,7 +2,7 @@
 
 Большинство заданий - это работа с платформой X-Cart 5 и создание [модуля](https://devs.x-cart.com/getting_started/creating-module.html) под неё. При выполнении тебе поможет наша [девелоперская документация](https://devs.x-cart.com) и [мерчантский мануал](https://kb.x-cart.com). 
 
-Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. Скачать можно тут: [X-Cart Downloadable](https://raw.githubusercontent.com/xcart/jobs/master/assets/x-cart-downloadable.tgz).
+Саму платформу нужно скачать и установить на типовой LAMP-стек по инструкции https://kb.x-cart.com/general_setup/installation/installation_guide.html. Скачать можно тут: [X-Cart Downloadable](https://github.com/xcart/jobs/raw/master/assets/x-cart-downloadable.tgz).
 После этого желательно включить в файле `etc/config.php` девелоперский режим, позволяющий применять изменения в коде без пересборки кэша, для этого нужно найти или добавить опцию:
 
 ```
